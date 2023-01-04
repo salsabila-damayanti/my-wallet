@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.page {
+  padding: 20px;
+  width: 100vw;
+}
+
+/* @media only screen and (max-width:700px) {
+  .sidebar {
+    display : none;
+  }
+} */

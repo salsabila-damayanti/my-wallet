@@ -1,0 +1,23 @@
+.outcome-page {
+    background-color: #A4BE7B;
+    margin: 10px;
+    padding: 10px;
+    /* width: 90vw;
+    height: 120vh; */
+    box-shadow: 10px 10px 14px -8px rgba(0,0,0,0.75);
+}
+
+.stat {
+    color: black;
+    background-color: #DAE2B6;
+    padding: 10px; 
+    width: 100%;
+}
+
+#pdf {
+    width: 100%;
+}
+
+.title {
+    font-weight: bold;
+}
